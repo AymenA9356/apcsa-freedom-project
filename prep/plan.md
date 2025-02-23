@@ -9,14 +9,14 @@
 
 #### MVP
 
-- [X] Finishing the fully 3D Model by the end of the Mid-winter Break (2/24/2025: X)
-- [ ] If finished erliear then go and export the .obj file and add it to xplanes plane maker and start on the physics modeling for the wings. (3/01/2025)
+- [X] Finishing the full 3D Model by the end of the Mid-winter Break (2/24/2025: X)
+- [ ] If finished earlier then go and export the .obj file add it to xplanes plane maker and start on the physics modeling for the wings. (3/01/2025)
 - [ ] Animation on the easy things [Aliron, Elevator, Spoilers] (3/15/2025)
-  - [ ] Animation of the Flaps and Slats (4/01/2025)
+  - [ ] Animation of the Flaps and Slats (4/01/2025)
 - [ ] Texture on the Fuelsalage of the Aircraft (3/21/2025)
 - [ ] Texture Wings (4/08/2025)
 - [ ] Texture Landing Gear (hard part) (4/16/2025)
-- [ ] Make Sure everything is working with no visable bugs/deficiencies in the plane (4/19/2025)
+- [ ] Make Sure everything is working with no visible bugs/deficiencies in the plane (4/19/2025)
 
 
 #### Beyond MVP
