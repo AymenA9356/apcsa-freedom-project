@@ -29,6 +29,14 @@ This week I tried to use the knife tool but not successful As the more I tried u
 
 
 
+LL10
+
+### 3/17/2025
+
+I have Compleated the wings and the Elevatores and also the Rudder for the game to get the general shape to calculate the pgysics. The next step here is to add the body of the aircraft
+
+![image](imgs/image_copy.png)
+![image](imgs/image.png)
 
 
 
