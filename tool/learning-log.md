@@ -40,6 +40,23 @@ I have Compleated the wings and the Elevatores and also the Rudder for the game 
 
 
 
+
+LL12
+
+### 4-6-2025
+I have started the Animation phase with the elevators done and also the fan blade spin and also the opening case for the reverse thrust.
+
+
+![alt text](../tool/imgs/engine.gif)
+
+![alt text](../tool/imgs/reverse_thrust.png)
+
+![alt text](../tool/imgs/reverse_2.png)
+
+
+
+![alt text](../tool/imgs/Elevators.gif)
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
